@@ -2458,7 +2458,7 @@ dependencies = [
  "vec_map",
  "wasm-bindgen",
  "web-sys",
- "windows 0.48.0",
+ "windows 0.46.0",
 ]
 
 [[package]]
@@ -3066,7 +3066,7 @@ checksum = "830d08ce1d1d941e6b30645f1a0eb5643013d835ce3779a5fc208261dbe10f55"
 [[package]]
 name = "leafwing-input-manager"
 version = "0.9.3"
-source = "git+https://github.com/tzemanovic/leafwing-input-manager?branch=tomas/dbg-steamdeck#cba1d07a8a6fa892c3628a00939ae012dacb681b"
+source = "git+https://github.com/tzemanovic/leafwing-input-manager?branch=tomas/dbg-steamdeck#e4e917c782cd5280b5f1cf440104f60c93f74192"
 dependencies = [
  "bevy",
  "derive_more",
@@ -3081,7 +3081,7 @@ dependencies = [
 [[package]]
 name = "leafwing_input_manager_macros"
 version = "0.9.0"
-source = "git+https://github.com/tzemanovic/leafwing-input-manager?branch=tomas/dbg-steamdeck#cba1d07a8a6fa892c3628a00939ae012dacb681b"
+source = "git+https://github.com/tzemanovic/leafwing-input-manager?branch=tomas/dbg-steamdeck#e4e917c782cd5280b5f1cf440104f60c93f74192"
 dependencies = [
  "proc-macro-crate",
  "proc-macro2",
@@ -5658,7 +5658,7 @@ dependencies = [
  "js-sys",
  "log",
  "naga",
- "parking_lot 0.12.1",
+ "parking_lot 0.11.2",
  "profiling",
  "raw-window-handle",
  "smallvec",
@@ -5684,7 +5684,7 @@ dependencies = [
  "fxhash",
  "log",
  "naga",
- "parking_lot 0.12.1",
+ "parking_lot 0.11.2",
  "profiling",
  "raw-window-handle",
  "smallvec",
@@ -5723,7 +5723,7 @@ dependencies = [
  "metal",
  "naga",
  "objc",
- "parking_lot 0.12.1",
+ "parking_lot 0.11.2",
  "profiling",
  "range-alloc",
  "raw-window-handle",

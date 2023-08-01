@@ -3066,7 +3066,7 @@ checksum = "830d08ce1d1d941e6b30645f1a0eb5643013d835ce3779a5fc208261dbe10f55"
 [[package]]
 name = "leafwing-input-manager"
 version = "0.9.3"
-source = "git+https://github.com/tzemanovic/leafwing-input-manager?branch=tomas/dbg-steamdeck#e4e917c782cd5280b5f1cf440104f60c93f74192"
+source = "git+https://github.com/tzemanovic/leafwing-input-manager?branch=tomas/dbg-steamdeck#6501eca63753f31d37c7b0b6480a10d224b571e2"
 dependencies = [
  "bevy",
  "derive_more",
@@ -3081,7 +3081,7 @@ dependencies = [
 [[package]]
 name = "leafwing_input_manager_macros"
 version = "0.9.0"
-source = "git+https://github.com/tzemanovic/leafwing-input-manager?branch=tomas/dbg-steamdeck#e4e917c782cd5280b5f1cf440104f60c93f74192"
+source = "git+https://github.com/tzemanovic/leafwing-input-manager?branch=tomas/dbg-steamdeck#6501eca63753f31d37c7b0b6480a10d224b571e2"
 dependencies = [
  "proc-macro-crate",
  "proc-macro2",
